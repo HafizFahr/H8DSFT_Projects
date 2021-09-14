@@ -8,3 +8,6 @@ Phase 1 Milestones:
 Phase 2 Milestones:
   - Customer Churn: predict customer churn based on their subscription details using a simple ANN model.
   - News Categorization: predict news category based on its headline and summary using a simple LSTM model and Word2Vec.
+
+Final Project:
+  - Article Category Recommendation: give recommendation for article category based on its content using keyword extraction (YAKE) and LSTM
